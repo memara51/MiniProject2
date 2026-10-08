@@ -1,0 +1,11 @@
+project,number of commits,number of authors,max time,min time,number of stars,number of forks,last commit date,LongestGapStart,LongestGapEnd,LongestGapLength,NumCommitsAfterLastGap,NumberOfGapsInTimeline,ActivityPattern
+kristofferc_pgfplotsx.jl,1145,63,2025-10-06,2017-05-05,,,,2025-05,2025-09,5,19,5,
+fizban007_coffeegpu,688,14,2025-02-20,2019-06-07,,,,2024-02,2025-01,12,1,4,
+clayne_retrowrite,373,15,2025-04-26,2018-08-29,,,,2024-06,2025-03,10,3,4,
+dkazanc_tomophantom,441,19,2025-04-02,2017-07-01,,,,2022-11,2023-08,10,33,4,
+alicevision_meshroom,7062,142,2025-11-04,2015-06-13,,,,2017-01,2017-02,2,6661,0,
+fmidev_smartmet-library-newbase,1360,29,2025-10-28,2016-12-01,,,,2025-04,2025-05,2,7,0,
+knausb_vcfr,1539,26,2026-02-23,2013-10-28,,,,2020-11,2021-07,9,71,8,
+fedml-ai_fedml,22540,187,2025-10-28,2020-07-22,,,,2022-01,2022-02,2,20744,0,
+latte-central_latte,488,16,2025-03-13,2015-03-04,,,,2021-02,2022-10,21,27,9,
+stineb_mct,36013,517,2026-02-23,2013-10-28,,,,2014-10,2014-12,3,72159,1,
