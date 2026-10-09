@@ -1,0 +1,415 @@
+prepost;project;commit;author;time;message
+pre;kristofferc_pgfplotsx.jl;d26e845454178937c597168ec250625140344ecd;Documenter.jl <documenter@juliadocs.github.io>;1731452418;"build based on 547ea8d
+"
+pre;kristofferc_pgfplotsx.jl;4bbe7a64eda7036f0b2282844ad5431e5a05656d;Documenter.jl <documenter@juliadocs.github.io>;1731452442;"build based on e653bcf
+"
+pre;kristofferc_pgfplotsx.jl;5ddf628c2235af059755ceb744e33a60fb4bf58f;Kristoffer Carlsson <kcarlsson89@gmail.com>;1731523605;"Merge b6662e579bd95a6df359a324f43c593e766cafb8 into e653bcffbaa9e6a675fd4ba087f025624bee38d0
+"
+pre;kristofferc_pgfplotsx.jl;bc35cf5c007e9647290abb05678174ffdbb69c99;Kristoffer Carlsson <kcarlsson89@gmail.com>;1731523605;"Merge dd0566c40363246d2d99e8e9017104d6cf9eb3db into e653bcffbaa9e6a675fd4ba087f025624bee38d0
+"
+pre;kristofferc_pgfplotsx.jl;bcacc2e6104e56738bd269f10af03708d65fba2f;Kristoffer Carlsson <kcarlsson89@gmail.com>;1731523605;"Merge 05934143789d2da5a3069f767beab9535050f4d7 into e653bcffbaa9e6a675fd4ba087f025624bee38d0
+"
+pre;kristofferc_pgfplotsx.jl;9a9994d5c4421fb72575c9fc5c24d566d1d71aaa;Ciarán O'Mara <Ciaran.OMara@utas.edu.au>;1733119375;"Merge 712f64db29d0d09bee13bed0444949de4b7a3b1d into e653bcffbaa9e6a675fd4ba087f025624bee38d0
+"
+pre;kristofferc_pgfplotsx.jl;3303ec7829d410e584e075ac119a3749ead0f12b;Tamas K. Papp <tkpapp@gmail.com>;1733119375;"Merge 1c6a1b56ced6a00511bd4fd4f6a2dfe0159974d6 into e653bcffbaa9e6a675fd4ba087f025624bee38d0
+"
+pre;kristofferc_pgfplotsx.jl;6d498fc714bf1e1226540b380a89b7c98c3d0292;Jerome Guterl <guterlj@fusion.gat.com>;1733119382;"Merge c754a315c5f6fe884f98e969a6736d7b087871a6 into e653bcffbaa9e6a675fd4ba087f025624bee38d0
+"
+pre;kristofferc_pgfplotsx.jl;e66fac29980bf59e5bdf87bdc8e66f5b72eceb3e;rs7q5 <46969733+rs7q5@users.noreply.github.com>;1733119382;"Merge 46b4cf305da2367efb982c78987191b7338f1e4c into e653bcffbaa9e6a675fd4ba087f025624bee38d0
+"
+pre;kristofferc_pgfplotsx.jl;da30660ada021df67935f5c2b2c8f6dee5599aee;Tamas Gal <himself@tamasgal.com>;1745582792;"Add ""col sep"" option to Table and TableData
+"
+post;kristofferc_pgfplotsx.jl;7cc05689faf6dc0a0ae97716052c246bb59e69c5;Kristoffer Carlsson <kcarlsson89@gmail.com>;1759739727;update tagbot script
+post;kristofferc_pgfplotsx.jl;5d8dcda40dfb372c03b9905d37471b7c7fb6cf8c;Kristoffer Carlsson <kcarlsson89@gmail.com>;1759739831;update actions cache version
+post;kristofferc_pgfplotsx.jl;26672e652ebd133a0a7cdca892a9a9a1b5ea7784;Documenter.jl <documenter@juliadocs.github.io>;1759740146;"build based on 7cc0568
+"
+post;kristofferc_pgfplotsx.jl;1af7ccc4471c475cf1cf4660daeb753200818b97;rs7q5 <46969733+rs7q5@users.noreply.github.com>;1759740162;"Merge 46b4cf305da2367efb982c78987191b7338f1e4c into 5d8dcda40dfb372c03b9905d37471b7c7fb6cf8c
+"
+post;kristofferc_pgfplotsx.jl;4ee0f2801b734024599c06b3aa66a63002fed45c;Jerome Guterl <guterlj@fusion.gat.com>;1759740162;"Merge c754a315c5f6fe884f98e969a6736d7b087871a6 into 5d8dcda40dfb372c03b9905d37471b7c7fb6cf8c
+"
+post;kristofferc_pgfplotsx.jl;ac9deaa956b085ed421647bd923cf12535d78368;Kristoffer Carlsson <kcarlsson89@gmail.com>;1759740162;"Merge 05934143789d2da5a3069f767beab9535050f4d7 into 5d8dcda40dfb372c03b9905d37471b7c7fb6cf8c
+"
+post;kristofferc_pgfplotsx.jl;8329d6ebd75298c7a95a47cf2b893af74f378fac;Tamas K. Papp <tkpapp@gmail.com>;1759740162;"Merge 1c6a1b56ced6a00511bd4fd4f6a2dfe0159974d6 into 5d8dcda40dfb372c03b9905d37471b7c7fb6cf8c
+"
+post;kristofferc_pgfplotsx.jl;7a6516e3ce6e401c3f2a526450147a2a76ae12e2;Ciarán O'Mara <Ciaran.OMara@utas.edu.au>;1759740162;"Merge 712f64db29d0d09bee13bed0444949de4b7a3b1d into 5d8dcda40dfb372c03b9905d37471b7c7fb6cf8c
+"
+post;kristofferc_pgfplotsx.jl;92e3f659d1d1533e5fb989bfae0d5808858fad49;Tamas Gal <tamas.gal@me.com>;1759740162;"Merge da30660ada021df67935f5c2b2c8f6dee5599aee into 5d8dcda40dfb372c03b9905d37471b7c7fb6cf8c
+"
+post;kristofferc_pgfplotsx.jl;0a8feefc1ffb0e3fc998338896698ccf0750562f;Documenter.jl <documenter@juliadocs.github.io>;1759740163;"build based on e653bcf
+"
+pre;fizban007_coffeegpu;0ac6140d1ae9f8903900260a1b4a6291b9e06994;Yajie Yuan <yuanyajie.yyj@gmail.com>;1662915375;"fixed the gen_xmf command in the analysis jupyter notebook
+"
+pre;fizban007_coffeegpu;6f805b999955829079823d1366a510dd23f57fe8;fizban007 <fizban007@gmail.com>;1663623054;"Added hdf5_include_dir to cmakefiles
+"
+pre;fizban007_coffeegpu;c1d6c6327263e4c085f83306dd8a364bdfeba74c;fizban007 <fizban007@gmail.com>;1663623128;"Removed vanilla dockerfile
+"
+pre;fizban007_coffeegpu;3b154ddccf03ce327237fd29a91343357a092b50;Alex Chen <fizban007@gmail.com>;1667250754;"use mcpu instead of march
+"
+pre;fizban007_coffeegpu;569862ae3a819fca4899c67102753c66717f9546;Alex Chen <fizban007@gmail.com>;1687448935;"Updated summit libraries
+"
+pre;fizban007_coffeegpu;ed82bf465d5b4c44ba2bc55550eb9789784f07c1;Alex Chen <fizban007@gmail.com>;1687449223;"Updated cmake for summit
+"
+pre;fizban007_coffeegpu;2da44a948f4a5189fb8bcab5ce6c53d48c0a798e;Yajie Yuan <yuanyajie.yyj@gmail.com>;1693513787;"added shear in the perturbation using angular range
+"
+pre;fizban007_coffeegpu;8e23c049a5aab2ab5606feabae35211176bb208c;Yajie Yuan <yuanyajie.yyj@gmail.com>;1693515313;"fixed compilation errors
+"
+pre;fizban007_coffeegpu;b8c90e6007222b520178c87b7317919cbaaa084f;Alex Chen <fizban007@gmail.com>;1706033772;"changed cmakelists.txt to compile on ris
+"
+pre;fizban007_coffeegpu;f09688ba62407833f81e3d79a96cebf2186f5753;Alex Chen <fizban007@gmail.com>;1706042063;"Merge branch 'develop' of github.com:fizban007/CoffeeGPU into develop
+"
+post;fizban007_coffeegpu;9986522d08b4d887e5ef9a53e12cecae4e376d22;Alex Chen <fizban007@gmail.com>;1740069994;"added fix_permission
+"
+pre;clayne_retrowrite;868958a471b07f30e09861174293321c077e660b;cyanpencil <lucadb96@gmail.com>;1675456217;"fix for android
+"
+pre;clayne_retrowrite;d6bb81588613dc8922006d120dcaf631347c6cef;cyanpencil <lucadb96@gmail.com>;1675552473;"more work on android sancov
+"
+pre;clayne_retrowrite;bfc3f0051170e65377236765466711c06f056677;cyanpencil <lucadb96@gmail.com>;1675552982;"more sancov pain
+"
+pre;clayne_retrowrite;559d39ee8bb943437cf7bd3f368331686fce3188;cyanpencil <lucadb96@gmail.com>;1678244686;"fix broken coverage commit
+"
+pre;clayne_retrowrite;4a7193bb3a35aeb77fbb04b8f4324cb5f56b42f3;cyanpencil <lucadb96@gmail.com>;1678270063;"fix broken coverage commit, again
+"
+pre;clayne_retrowrite;511ddd01e7b18e9a70dfc00fecea28eb8e6d0ba5;cyanpencil <lucadb96@gmail.com>;1680885308;"updated coreutils testing script
+"
+pre;clayne_retrowrite;d722ec5114de0d93b018f5876132946abf3f0ad5;Mathias Payer <mathias.payer@nebelwelt.net>;1689261901;"Fix wrong debug for x86
+"
+pre;clayne_retrowrite;c31896e6814b61e6ef1227f02545ea3cb0d369d4;cyanpencil <lucadb96@gmail.com>;1701133238;"fix executable stack on old kernels on x64
+"
+pre;clayne_retrowrite;ef4e541ac47fd032d30148fc61dfe48e94d5cd19;cyanpencil <lucadb96@gmail.com>;1701381765;"fix executable stack on aarch64 kernels older than v5.8-rc1
+"
+pre;clayne_retrowrite;a1c6140a2fa0777b79d8d89e93c3f45962b7f03a;cyanpencil <lucadb96@gmail.com>;1715590604;"fix capstone options mismatch
+"
+post;clayne_retrowrite;4aa6bd89fcf07e48b0dd080cada7ab51c6aec0d7;cyanpencil <lucadb96@gmail.com>;1745328071;"added jumparound obfuscation pass
+"
+post;clayne_retrowrite;9c661b90406951252614cfebf5040c3a50f0f69d;cyanpencil <lucadb96@gmail.com>;1745328250;"update README
+"
+post;clayne_retrowrite;3b1e366ff8d2449a4f4c3157dd95c6f39c0a310b;cyanpencil <lucadb96@gmail.com>;1745686132;"fix do not randomize first two instructions in jumparound pass
+"
+pre;dkazanc_tomophantom;f234fd977f34f9dfa31afef75ca78bf627ec675b;Daniil Kazantsev <dkazanc@hotmail.com>;1646656785;"Merge pull request #110 from dkazanc/misalign
+
+enables subpixel misalignment for 2d"
+pre;dkazanc_tomophantom;3d25dbfe7b3120f1f41bc8632f49e0385d2f86f2;Gemma Fardell <47746591+gfardell@users.noreply.github.com>;1658930252;Update build variants
+pre;dkazanc_tomophantom;c82b37634bd8a185eaec1bf00f9b3339fbe52755;Gemma Fardell <47746591+gfardell@users.noreply.github.com>;1658930418;"Update build variants (#113)
+
+"
+pre;dkazanc_tomophantom;97f464a92b272ed76d35d46cc406a00de997600a;Gemma Fardell <47746591+gfardell@users.noreply.github.com>;1658930418;"Update build variants (#113)
+
+"
+pre;dkazanc_tomophantom;9d84ceaa2f93d00ddf8083fe8f2c50f9f37a2fbc;Daniil Kazantsev <dkazanc@hotmail.com>;1660390686;"change to size_t
+"
+pre;dkazanc_tomophantom;96b988fd4ad05dcc60923a5d9d08501e0550d4f5;Daniil Kazantsev <dkazanc@hotmail.com>;1660398367;"demo reverted
+"
+pre;dkazanc_tomophantom;a925bc30c38ad0c93aa066f66b30ea35c77094cc;Daniil Kazantsev <dkazanc@hotmail.com>;1660398397;"Merge pull request #114 from dkazanc/overflow
+
+fixes #112 issue"
+pre;dkazanc_tomophantom;20ca5163a4620d9028416c7ccf5a87062f708ee6;Daniil Kazantsev <dkazanc@hotmail.com>;1665162609;"flats generator re-written
+"
+pre;dkazanc_tomophantom;433ac1fe72d02e5f98341d6a8185c234db2eb6c9;Daniil Kazantsev <dkazanc@hotmail.com>;1665562650;"flats generator completed
+"
+pre;dkazanc_tomophantom;6e3b949228ada2a549d1830c9bd79013552320cc;Daniil Kazantsev <dkazanc@hotmail.com>;1665563687;"Merge pull request #115 from dkazanc/flats
+
+flat field generator has been re-written"
+post;dkazanc_tomophantom;5027e5c87d75f307ae82b71ecf469945b7e79830;gfardell <gemma.fardell@stfc.ac.uk>;1695979757;"added build variants
+"
+post;dkazanc_tomophantom;4920493267ea99b47719118765f8647ffb8de486;algol <dkazanc@hotmail.com>;1703179328;"tomophantom version 3, totally refactored with ctypes, cython removed, 120 tests added
+"
+post;dkazanc_tomophantom;99b559eeac2cbdaafedf6e8ad6e5f5c81025806f;algol <dkazanc@hotmail.com>;1703179601;"black linting + actions fix
+"
+post;dkazanc_tomophantom;11ae9cd622d280ba01fe905f3bf68ea96ab3f3c8;algol <dkazanc@hotmail.com>;1703236051;"actions fixes
+"
+post;dkazanc_tomophantom;e101520b13a9d1190bf60219508b21ec66321fb2;algol <dkazanc@hotmail.com>;1703236733;"actions2
+"
+post;dkazanc_tomophantom;0be01d51083c3700140be8a111dc7c1d94f773bd;Daniil Kazantsev <dkazanc@hotmail.com>;1703237394;"Merge pull request #118 from dkazanc/tomophantom3
+
+tomophantom version 3"
+post;dkazanc_tomophantom;d3600d9cda0464179ec0b50e680274ada9e100aa;algol <dkazanc@hotmail.com>;1703237710;"pages update
+"
+post;dkazanc_tomophantom;5bfacf2267f7dc2a8b6825ff13863d2c2e6c3e2c;algol <dkazanc@hotmail.com>;1703241255;"adding actions doc build
+"
+post;dkazanc_tomophantom;151f3b255614503d76db728657fdab6b6a72c0d7;algol <dkazanc@hotmail.com>;1703242063;"updating readme
+"
+post;dkazanc_tomophantom;953c6f37d657fa9a645eff518178c390feafde86;algol <dkazanc@hotmail.com>;1703243363;"adding markdown
+"
+pre;alicevision_meshroom;bc4a0c67e86831d55a78e1db55b267b109d4465a;Nicolas Rondaud <nrondaud@gmail.com>;1479924171;"updating dg submodule
+"
+pre;alicevision_meshroom;ec3f933d6ceff8855227b8be203f459489188c66;Nicolas Rondaud <nrondaud@gmail.com>;1480071543;"Merge branch 'linux' into develop
+"
+pre;alicevision_meshroom;4ef0b28c35f2d0014c4ff1fd3a2cab310c5ac5c3;Nicolas Rondaud <nrondaud@gmail.com>;1480072903;"updating dg submodule
+"
+pre;alicevision_meshroom;c4cc77f670845a1341d89bc7c957c19a7801860f;Carsten Griwodz <griff@simula.no>;1481011293;"adding cmake uninstall rule
+"
+pre;alicevision_meshroom;705e744cc00f0a0bd16a80ce31772ce7abaec396;Simone Gasparini <simone.gasparini@gmail.com>;1481017166;"Merge 5f37bee5650875e7089432c49c6fc226619fae6e into c4cc77f670845a1341d89bc7c957c19a7801860f
+"
+pre;alicevision_meshroom;a2fef01b8ca346458b6b79c7a206c1c93a71d247;Nicolas Rondaud <nrondaud@gmail.com>;1481540213;"catch sigkill signal
+"
+pre;alicevision_meshroom;13682b59dec57f69a8a570bf8a9c07c4156da222;Nicolas Rondaud <nrondaud@gmail.com>;1481540286;"custom env
+
+w/ a new MESHROOM_COMMAND_EXECUTABLE environment variable
+"
+pre;alicevision_meshroom;745b531af5bff171102f2e130f93dc7331c94310;Nicolas Rondaud <nrondaud@gmail.com>;1481550704;"fixed scene import
+"
+pre;alicevision_meshroom;9d817dd5b768cb8fe1a5d806b59e2a1c4e863159;Nicolas Rondaud <nrondaud@gmail.com>;1481814809;"omvg: take describerPreset/Method & matchingMethod into account
+"
+pre;alicevision_meshroom;be38ff2ff726189a5352e824d2d8bc65429c153d;Nicolas Rondaud <nrondaud@gmail.com>;1481823095;"node types are now prefixed by the plugin name
+"
+post;alicevision_meshroom;abc721ce27d6426918f80491d4fdd2364996c604;Yann Lanthony <yann.lanthony@gmail.com>;1490089742;"[nodeeditor] add acceptedButtons property on EdgeItem
+
+"
+post;alicevision_meshroom;e7d42eec296efc1803994aa63434e6cb6801c792;Yann Lanthony <yann.lanthony@gmail.com>;1490980507;"[scene_file] serialize only valuable node attributes
+
+* save only valuable attributes: non-connected with non-default value inputs (the only type of attribute that can not be deduced)
+* save only attribute properties:
+   - related to identification (key)
+   - not contained in the node definition (value, if non-default)
+* when loading a scene:
+   - node attributes are now initialized based on node definition (plugin.json)
+   - attributes values from node definition are stored as default value
+   - attributes values are only updated if corresponding data was saved in the scene file (Actions.hpp)
+
+"
+post;alicevision_meshroom;a8988757827dc708a6c96767892bcc71a50d33c0;Fabien Castan <fabcastan@gmail.com>;1491480949;"Disable Undistort/Feature Types and use a Choice for meshing scales
+
+Also use Camel Case labels and update some of them.
+"
+post;alicevision_meshroom;e017a5f4c62d8af167ad87d75f779783fd555826;Yann Lanthony <yann.lanthony@gmail.com>;1491497190;"[subprocesses] better handling of errors and crashes in subprocesses
+
+* handle non-zero exit codes in started subprocesses
+* update dglib"
+post;alicevision_meshroom;3e435dfde501c7f306a490522d322a553961932c;Yann Lanthony <yann.lanthony@gmail.com>;1491560112;"[undo/redo] rename signal dirtyChanged to isCleanChanged
+"
+post;alicevision_meshroom;13ce8b048b1d14549ef4ab159998cac86a479bc5;Yann Lanthony <yann.lanthony@gmail.com>;1491560555;"[worker] launch runner from all leaves when no node is specified
+
+Don't consider only the first leave of the graph,  sequentially loop over all of them.
+"
+post;alicevision_meshroom;e57b139d8d0602accde3b700cbdd9fbd99b2507f;Yann Lanthony <yann.lanthony@gmail.com>;1491568667;"support multiple graphs in one Scene
+
+* Scene:
+   * now works with a list (QQmlObjectListModel) of named graphs
+   * one graph (Scene.graph) is considered as the current one
+   * serialize graphs list in the scene file
+* Cache:
+   * move cacheUrl to Scene
+   * default cache folder is now by default a .meshroom_cache folder next to the scene file (so cache is shared between scene's graphs)
+* Commands:
+    * new scene commands: add/duplicate/remove graph
+    * move command-related graph functions inside Graph class (instead of Actions.hpp)
+    * commands store graphs indexes instead of pointers, since Graph objects can be deleted
+* Update OpenMVG template to match those changes
+"
+post;alicevision_meshroom;7e1a410e4f875a5b3b40290d0f4f01d8949b32f3;Yann Lanthony <yann.lanthony@gmail.com>;1491572545;"[nodeeditor-ui] various fixes
+
+* populate edges repeater after nodes repeater to ensure initialization order (edges need nodes to be instantiated to work properly)
+* fix initial position of nodes
+* remove nodes drag threshold
+* fix edge thickness to 1"
+post;alicevision_meshroom;c488ab63cf2979b0eac2352c541e722719674e27;Yann Lanthony <yann.lanthony@gmail.com>;1491572720;"[qt] fixes for Qt5.8 update
+
+* functions became properties
+* don't force a specific OpenGL version and profile (breaks Alembic point cloud display)
+"
+post;alicevision_meshroom;810a09afcde1251593a291289328a6ca0aaca72c;Yann Lanthony <yann.lanthony@gmail.com>;1491573863;"[graph] automatic nodes status refresh
+
+* in each graph, keep track of nodes' attributes modifications with a 'dirty' flag
+* request a status refresh (will occur only if the graph is flagged 'dirty'):
+   - after a command, on the current graph
+   - when a graph is made current"
+pre;fmidev_smartmet-library-newbase;0990bfca5b2e41c016152d993c9b9935d86e0af9;Andris Pavēnis <andris.pavenis@fmi.fi>;1734520846;"[rpmbuild] proj95, geos-3.13, gdal-3.10
+"
+pre;fmidev_smartmet-library-newbase;a536e681b4c7d4a8dfa9a2ed7941257b81755602;Andris Pavēnis <andris.pavenis@fmi.fi>;1734523410;"[circle-ci] Enable staging repo for p95 branch
+"
+pre;fmidev_smartmet-library-newbase;b72427bea345537437467ebcc06495a73216591a;Andris Pavēnis <andris.pavenis@fmi.fi>;1736238611;"NFmiAreaFactory: CreateProj: skip empty tokens if returned by boost::algorithm::split
+"
+pre;fmidev_smartmet-library-newbase;d7abee9dc30a739e30108c7939258b9d1a9a0e1f;Andris Pavēnis <andris.pavenis@fmi.fi>;1736238640;"Merge branch 'master' into p95
+"
+pre;fmidev_smartmet-library-newbase;191c3e48f62c2d93639e1883842213f58395f3b9;Andris Pavēnis <andris.pavenis@fmi.fi>;1739881205;"New version 25.2.18-1.fmi
+"
+pre;fmidev_smartmet-library-newbase;556d73258ae6d245dbc179d06298b39b6dffeded;Andris Pavēnis <andris.pavenis@fmi.fi>;1739881205;"[rpmbuild] Update requires
+"
+pre;fmidev_smartmet-library-newbase;e6a50620aaa869d9ac7e00f2d6f720e47eeedfbf;Mika Heiskanen <mika.heiskanen@fmi.fi>;1742469308;"Added GeoMagneticRIndex
+"
+pre;fmidev_smartmet-library-newbase;79f088ff34898bb0432b429d7664796aabf6b0dc;Mika Heiskanen <mika.heiskanen@fmi.fi>;1742469311;"New release version
+"
+pre;fmidev_smartmet-library-newbase;14d5e8b1c6c001a982e52bc96a6664d6ba39d7be;Mika Heiskanen <mika.heiskanen@fmi.fi>;1742469713;"Added GeoMagneticRIndex
+"
+pre;fmidev_smartmet-library-newbase;59e538edfb0712c2726cdbc8d798488ee11161e4;Mika Heiskanen <mika.heiskanen@fmi.fi>;1742469717;"New release version
+"
+post;fmidev_smartmet-library-newbase;dde95a6075a68ad4cabe524e378d21dbf6ee3f05;Andris Pavēnis <andris.pavenis@fmi.fi>;1750327831;"[rpmbuild] Add RHEL 10/RockyLinux 10 support
+
+"
+post;fmidev_smartmet-library-newbase;337debab452926a0d6b7dd40cc0079b7fcd39f25;Andris Pavēnis <andris.pavenis@fmi.fi>;1750327977;"[circleci] Add build for RHEL10
+
+"
+post;fmidev_smartmet-library-newbase;2d1bf3709f19578d9db297d9b8de455df2e2e494;Andris Pavēnis <andris.pavenis@fmi.fi>;1750660175;"[rpmbuild] Require python3-setuptools for build
+
+"
+post;fmidev_smartmet-library-newbase;040f5b40a1c12d10ef921aa330f85b7518e815b4;Andris Pavēnis <andris.pavenis@fmi.fi>;1753446216;"Use hash functions from smartmet-library-macgyver
+
+"
+post;fmidev_smartmet-library-newbase;c1309871fbcf87b20908cd4c89e745dd21d39232;Andris Pavēnis <andris.pavenis@fmi.fi>;1753446446;".circleci/manual.yml: new file
+
+"
+post;fmidev_smartmet-library-newbase;c7b54c8d32ee1766625d4eeebb3510216253de08;Andris Pavēnis <andris.pavenis@fmi.fi>;1753446556;"[rpmbuild] Require smartmet-library-macgyver >= 25.7.25
+
+"
+post;fmidev_smartmet-library-newbase;e720174dcf915f7232b4cb7baa8355c461db3040;Andris Pavēnis <andris.pavenis@fmi.fi>;1761650283;"Do not link with libboost_system
+"
+pre;knausb_vcfr;faebb7f13b372a149d2222ae2cf449ffa3955fbd;knausb <briank.lists@gmail.com>;1598649620;"rebuilt vcfR2DNAbin with updated link on GATK overlapping variants
+"
+pre;knausb_vcfr;94f4ab03488bb5f2a76fc1a7e35650d0a0be8a42;knausb <briank.lists@gmail.com>;1598649640;"Merge branch 'master' of github.com:knausb/vcfR
+"
+pre;knausb_vcfr;d3cee7c5b65bafcb7276eea75f79f7752c7b441e;Brian Knaus <briank.lists@gmail.com>;1598650016;"updated vcfR2DNAbin
+"
+pre;knausb_vcfr;d2621db025ea0fb19ba6681873876805d985795e;Brian Knaus <briank.lists@gmail.com>;1598650027;"Merge branch 'master' of github.com:knausb/vcfR
+"
+pre;knausb_vcfr;8d1fa3fa5935fe1d79714c24f37b4a436c00b816;knausb <briank.lists@gmail.com>;1598653522;"updated URLs in documentation
+"
+pre;knausb_vcfr;a5e194d131eb70db763416366f4639bcb79ebc5f;Brian Knaus <briank.lists@gmail.com>;1598654216;"updated cran-comments.md
+"
+pre;knausb_vcfr;112e4410c5e9de598d6d0b0b0ba19004f63d42d0;Brian Knaus <briank.lists@gmail.com>;1598661036;"updated cran-comments.md with test results
+"
+pre;knausb_vcfr;02741960e3c989f5312c9d11b158ef6beddd1a63;Brian Knaus <briank.lists@gmail.com>;1598816201;"added test results to cran-comments.md
+"
+pre;knausb_vcfr;2d53fa5edf1ffccd0f44041270fdf53a475b937e;Brian Knaus <briank.lists@gmail.com>;1598984122;"updated release info in NEWS.md
+"
+pre;knausb_vcfr;02021a5ef861ac9de02282614440e88b367c2e89;Richard James Acton <rjactonspsfcf@gmail.com>;1603448698;"Merge af34b854a69ae58968cf7e27f9027bf25a78c068 into 2d53fa5edf1ffccd0f44041270fdf53a475b937e
+"
+post;knausb_vcfr;5f4b2d53a0f32362de177e979a9f14cd8a7538a5;Brian Knaus <briank.lists@gmail.com>;1629750641;"created vcfR2hapmap
+"
+post;knausb_vcfr;45c09a324ee9c83566994508a9e4b17a56b18a82;Brian Knaus <briank.lists@gmail.com>;1629758686;"wrote vcfR2hapmap
+"
+post;knausb_vcfr;b49e4027912b842c42b72f7a8a5fa94a4a3a700b;Brian Knaus <briank.lists@gmail.com>;1629760959;"added test_vcfR2hapmap
+"
+post;knausb_vcfr;8d09384a3c5d3034099e731feb19092dfb9db3a6;Brian Knaus <briank.lists@gmail.com>;1629763601;"NA to NN in vcfR2hapmap
+"
+post;knausb_vcfr;c4a74a907ae2910b03cfdaf40d386e32082a5e35;Brian Knaus <briank.lists@gmail.com>;1629764052;"added vcfR2hapmap to NEWS.md
+"
+post;knausb_vcfr;630d226d93b02566733579c2a22a03b0149b18aa;Brian Knaus <briank.lists@gmail.com>;1629922808;"managede . as NN in vcfR2hapmap
+"
+post;knausb_vcfr;48876f5608adbd9d36b7977a5126ea0e2d4cbf54;Brian Knaus <briank.lists@gmail.com>;1631734419;"omitted .travis.yml
+"
+post;knausb_vcfr;474873f96a5d6df5f1760620314c8270022797d1;Richard James Acton <rjactonspsfcf@gmail.com>;1632236245;"Merge af34b854a69ae58968cf7e27f9027bf25a78c068 into 48876f5608adbd9d36b7977a5126ea0e2d4cbf54
+"
+post;knausb_vcfr;d999ac51704c35c7599b6d6dd5ce059d67810a64;briank <briank.lists@gmail.com>;1633547111;"edited vcfR2hapmap and checked package
+"
+post;knausb_vcfr;edc46c266c2e0c23c449f4cf0d936f9d826b9bfd;briank <briank.lists@gmail.com>;1633549197;"incremented version to 1.2.0.9999
+"
+pre;fedml-ai_fedml;622fed8d37f2edc04174923d80fb7f0b64efb1d3;Ray Sun <ray.ruisun@qq.com>;1637936375;Avoid bz2 dataset file
+pre;fedml-ai_fedml;4e205556accef63fb7a19d2ad65333abc1417b49;Ray Sun <ray.ruisun@qq.com>;1637936375;Avoid bz2 dataset file
+pre;fedml-ai_fedml;ff6fc23f69bd072b2cb0514daf9ec6f0943ae4d4;aab120 <anna.beer20@imperial.ac.uk>;1639085354;"original vfl for comparison
+"
+pre;fedml-ai_fedml;8ab6de6b416ca363147c05f0c911602a7825a0a3;aab120 <anna.beer20@imperial.ac.uk>;1639085793;"vfl with fascilitator
+"
+pre;fedml-ai_fedml;a97615cab26af62a17ce250740c95eea6617c1f6;hanguo97 <alex.guohan1106@gmail.com>;1640203264;"using test data instead of train data
+"
+pre;fedml-ai_fedml;766d31d7a78521c54e4c0b405ea4ddcdb4409fc3;hanguo97 <alex.guohan1106@gmail.com>;1640203264;"using test data instead of train data
+"
+pre;fedml-ai_fedml;416284e1e99fbebaf850941c15988b2b13f0b138;Han Guo <alex.guohan1106@gmail.com>;1640231291;"fedml_api/standalone/fedopt/fedopt_api: fixes
+"
+pre;fedml-ai_fedml;6442e9b39fc0fb8bb3967ec05dbcf1b0f5e46103;Han Guo <alex.guohan1106@gmail.com>;1640231291;"fedml_api/standalone/fedopt/fedopt_api: fixes
+"
+pre;fedml-ai_fedml;9af4b0662a1be4f003b92e5508c1d6784eb2f99f;Han Guo <alex.guohan1106@gmail.com>;1640376750;"fedml_api/standalone/fedopt/my_model_trainer_classification: added weight decay option to SGD too
+"
+pre;fedml-ai_fedml;549742c1d3497196aa22ee445fd57235f4dc48b3;Han Guo <alex.guohan1106@gmail.com>;1640376750;"fedml_api/standalone/fedopt/my_model_trainer_classification: added weight decay option to SGD too
+"
+post;fedml-ai_fedml;159bf8fac267004f88095da00dafe45ce7c58c11;bangawayoo <bangawayoo@gmail.com>;1646909916;"add feat: coordinate median aggregation & minor fix on weight vectorization
+"
+post;fedml-ai_fedml;b974bfbc7e0aeb4e5abef33eff0777036b949dd8;bangawayoo <bangawayoo@gmail.com>;1646909916;"add feat: coordinate median aggregation & minor fix on weight vectorization
+"
+post;fedml-ai_fedml;a3750b6f7d162614f51a7ed433f79afd9764ef69;Ray Sun <ray.ruisun@qq.com>;1647357178;"Update fedavg_api.py
+
+The old aggregate method will impact the model performance when it comes to Non-IID setting"
+post;fedml-ai_fedml;d398148349c1118aee6aedc4232eea8e4a60e773;Ray Sun <ray.ruisun@qq.com>;1647357178;"Update fedavg_api.py
+
+The old aggregate method will impact the model performance when it comes to Non-IID setting"
+post;fedml-ai_fedml;bcf8eea712a1851ebfef3755aca6c38f0b25442d;chaoyanghe <chaoyanghe.com@gmail.com>;1647377295;"upload lending_club_load to s3 server
+"
+post;fedml-ai_fedml;4b8667d8e1c129a01b3017fc1ff7be8a80df0f56;chaoyanghe <chaoyanghe.com@gmail.com>;1647377537;"Update README.md
+"
+post;fedml-ai_fedml;9afb5196cac60114c86151e37746d0694b983003;chaoyanghe <chaoyanghe.com@gmail.com>;1647377537;"Update README.md
+"
+post;fedml-ai_fedml;861bbc9018c3886102d9c04685313e7db36ef9f7;Sunwoo Lee <sunwool@usc.edu>;1649092074;"Dynamic programming-based scheduler code.
+"
+post;fedml-ai_fedml;8718f8203fb08c6be62f8feea2d3378226821dab;Sunwoo Lee <sunwool@usc.edu>;1649092074;"Dynamic programming-based scheduler code.
+"
+post;fedml-ai_fedml;78f745270696c5fc105322f6ad0cd09e78357e8d;alex.liang <alexliang.kh@gmail.com>;1649518840;"add the fedavg-cross-silo module with mqtt+s3 communication backend to make the FedML open source project connect to the FedML MLOps platform.
+"
+pre;latte-central_latte;77cda8c887175e2fba39688721883a60ac82c407;fredokun <frederic.peschanski@lip6.fr>;1569490272;"fix for type implicits
+"
+pre;latte-central_latte;f7d4c814a1364dd0bce48135cfa4a7f8e8dfb824;fredokun <frederic.peschanski@lip6.fr>;1569491129;"beta7
+"
+pre;latte-central_latte;6bface685372a59d96f739ea0b6f1d8bb71da8d6;fredokun <frederic.peschanski@lip6.fr>;1569493359;"better resolution of implicit type handlers
+"
+pre;latte-central_latte;2f5c6c498eb4f577dd400fc5b141f60bc7a22011;Andrea Amantini <lo.zampino@gmail.com>;1570195851;"Source kernel at 'sigma-types' branch.
+"
+pre;latte-central_latte;469b26afdaa4d8e23270602c3d5df20946b10722;fredokun <frederic.peschanski@lip6.fr>;1570624378;"change order in script
+"
+pre;latte-central_latte;8e71e04e7bb8bf4bcf4bb33f84a2e0710d355192;Frederic Peschanski <fredokun@github.com>;1596034007;"programmatic require
+"
+pre;latte-central_latte;96f462be9af4c71072d27cc15fd74104d9a28e80;Frédéric Peschanski <Frederic Peschanski>;1604755555;"version bump (kernel bugfix)
+"
+pre;latte-central_latte;3427c027d39e2ed8c190fc493d39b1f1de12c30d;Frédéric Peschanski <Frederic Peschanski>;1604755810;"wrong arity (fixed)
+"
+pre;latte-central_latte;e5ef36cdb4c81d0a33e1c02a6317df1f6275ae73;Fredokun <frederic.peschanski@lip6.fr>;1609937652;"beta9
+"
+pre;latte-central_latte;521d7f5e02bdec133a251d9dfbdbac6c42481eb7;Fredokun <frederic.peschanski@lip6.fr>;1610731088;"opacity management, beginning of beta10
+"
+post;latte-central_latte;5d260a9e0728f9881def69c1f600e3eedbcae95c;Frederic Peschanski <frederic.peschanski@lip6.fr>;1668809981;"add original body in statement metadata (for search facility)
+"
+post;latte-central_latte;fabed867b392772b2d33a629300e826c383b944e;Frederic Peschanski <frederic.peschanski@lip6.fr>;1668810644;"bugfix: '?' is not allowed as implicit param
+"
+post;latte-central_latte;381596ad88b04036c660b28692e21f05e89d7d76;Frederic Peschanski <frederic.peschanski@lip6.fr>;1668811084;"initial totally dumb pattern matcher
+"
+post;latte-central_latte;f6995db212b826f50e0664cb88a97765bd979ac3;Frederic Peschanski <frederic.peschanski@lip6.fr>;1668811468;"refined matching
+"
+post;latte-central_latte;c9d76f9d7f69ec8aecf48c3221b41387c908ef24;Frederic Peschanski <frederic.peschanski@lip6.fr>;1668816262;"first draft for search facility
+"
+post;latte-central_latte;d489320bbe2bc2c7109f8e7e7e866a26f1fc858a;fredokun <frederic.peschanski@lip6.fr>;1669117747;"removing badge
+"
+post;latte-central_latte;2ac59d3d24de05241b909e61e1b960932ce4f162;fredokun <frederic.peschanski@lip6.fr>;1669117864;"versions bump
+"
+post;latte-central_latte;bfba246c7c052d5d413d079af6ddb601bf4fa37a;fredokun <frederic.peschanski@lip6.fr>;1669119844;"one test
+"
+post;latte-central_latte;d049cc8c890e7afaa733c60ad23f5dd11633d32c;fredokun <frederic.peschanski@lip6.fr>;1669301522;"started match for opt, star and plus variables
+"
+post;latte-central_latte;ce95145e5809d4757bc09513a592fb29f216e863;Frederic Peschanski <frederic.peschanski@lip6.fr>;1669330623;"start and plus search
+"
+pre;stineb_mct;e6263f617eac7e2a04f5ca38802271478a2fecf6;stineb <b.stocker@imperial.ac.uk>;1561002028;"finished script for combining regridded EVI
+"
+pre;stineb_mct;eec9d3bb2ebe254751c1e1f06ad35200adbcf7d5;stineb <benjamin.stocker@gmail.com>;1561010386;"dunno
+"
+pre;stineb_mct;9d867ad289971ed9537c1236a2ce652de180c733;stineb <benjamin.stocker@gmail.com>;1561419499;"implemented mct for global analysis based on EVI
+"
+pre;stineb_mct;ab382a99d7cb117bc9c14a2e4f5a1bb1cccef8e6;stineb <benjamin.stocker@gmail.com>;1562016055;"updates
+"
+pre;stineb_mct;f87e84a78436d1b8ca6255d8d30722bfc40e2f88;stineb <benjamin.stocker@gmail.com>;1562020743;"preparing for v2 analysis
+"
+pre;stineb_mct;b7f5b7222667403d69b5cb5fb96e6b71340d8598;stineb <benjamin.stocker@gmail.com>;1563326312;"implemented site-scale MCT
+"
+pre;stineb_mct;7fe2bf2222a3bcebc75697665528b8674f4bcc38;stineb <benjamin.stocker@gmail.com>;1564538955;"added method description
+"
+pre;stineb_mct;a9ab23dd439aa8f6c2d1afb26c8b85639a30108f;stineb <benjamin.stocker@gmail.com>;1564538997;"added file
+"
+pre;stineb_mct;3cce07421314f31dce7a4e6e1f5f2d58641b0a1a;stineb <benjamin.stocker@gmail.com>;1568907509;"added evaluation with Shersinghs data
+"
+pre;stineb_mct;23cb220e6e2e718360070673f705e6b7bce1cafd;stineb <benjamin.stocker@gmail.com>;1568987240;"implemented quantile to show in barplot
+"
+post;stineb_mct;83a4c5c46be5b6e651bb4d9721edd32099d4ecfc;Benjamin Stocker <benjamin.stocker@gmail.com>;1579801802;"collected climate and et forcing data. now need to implement snow/melting, then do the mct stuff...
+"
+post;stineb_mct;1d6acbed680cc4db5e5311056eea9f24b7505a7f;Benjamin Stocker <benjamin.stocker@gmail.com>;1580224183;"implemented ET data readin from global files
+"
+post;stineb_mct;47e2acd58cd1f906efcb140645cfc0c0844d6dfd;Benjamin Stocker <benjamin.stocker@gmail.com>;1580811376;"implemented rscript_eval_fluxnet.R
+"
+post;stineb_mct;0a70695840a1ffcdf2c857816c5c60c0aaec420d;Benjamin Stocker <benjamin.stocker@gmail.com>;1581445494;"work in progress
+"
+post;stineb_mct;d5a0764ab73f1120de1e8d96275e2869b6c6bac8;Benjamin Stocker <benjamin.stocker@gmail.com>;1581446209;"changed to str_replace
+"
+post;stineb_mct;676edf5dc78c29235175fc3eb2274bb4b9cc6f26;Benjamin Stocker <benjamin.stocker@gmail.com>;1581446423;"removed limiting to reading only year 2007 files
+"
+post;stineb_mct;be3fafab4c1d70f191782f88d70e9584a601f969;Benjamin Stocker <benjamin.stocker@gmail.com>;1581447430;"added submission file
+"
+post;stineb_mct;526b2f743bcdbe5207fd08ec60c394c6b3264321;Benjamin Stocker <benjamin.stocker@gmail.com>;1584974143;"added missing files
+"
+post;stineb_mct;0bdaced9839412ccca5c6592defec4726d83962f;stineb <b.stocker@imperial.ac.uk>;1584974176;"reading alternatively from csv
+"
+post;stineb_mct;5fa3227f9b881a48ea8221ccf05bcf7780378e1b;stineb <b.stocker@imperial.ac.uk>;1584974180;"Merge branch 'master' of https://github.com/stineb/mct
+"
